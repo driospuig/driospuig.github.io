@@ -1,0 +1,135 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: David Rios Puig
+    tagline: Game developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: driospuig@icloud.com
+    # website: blog.webjeda.com #do not add http://
+    linkedin: driospuig
+    github: driospuig
+    twitter: '@driospuig'
+
+    languages:
+      - idiom: Catalan
+        level: Native
+
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+
+education:
+    - degree: Computer Engineering
+      university: Autonomous University of Barcelona
+      time: 2005 - 2012
+
+experiences:
+    - role: Senior Game Developer
+      time: Sep 2017 - Present
+      company: Social Point, Barcelona
+      details: |
+            - Prototype game concepts using Unity
+            - Facilitate daily scrum, sprint planning and retrospectives
+            - Help with the recruitment process and the onboarding of new team members
+            - Write technical design documents
+            - Responsible for the iOS releases
+            - Contribute to in-house libraries
+            - Develop client side gameplay systems using cocos2d-x in C++
+
+    - role: C++ Game Developer
+      time: Jul 2013 - Jun 2017
+      company: Gameloft, Sofia
+      details: |
+            - Prototype game concepts using Unity
+            - Write documentation to share knowledge between teams/studios
+            - Integrate in-house libraries
+            - Develop gameplay systems using a C++ in-house game engine for online games, both client and server side
+
+    - role: C# Game Developer
+      time: Aug 2012 - Jan 2013
+      company: Blinzy Studios, Barcelona
+      details: |
+            - Develop gameplay systems using Unity
+            - Implement in-app purchases for the App Store, Google Play and Amazon Apps
+
+
+projects:
+    title: Projects
+
+    assignments:
+      - title: "Rageball League (Social Point)"
+        link: "assets/videos/rageballleague.mp4"
+        tagline: "You asked for an adrenaline-filled eSports game and RAGEBALL is here to deliver! In RAGEBALL, you’ll find ultra fast-paced, real-time multiplayer matches that combine soccer, rugby, and brawling arenas. Smash your opponents with brutal moves and pass the ball to your teammates as you aim to score in the enemy Goal Zone! This all takes place in matches that last only 2 minutes! Switch quickly between a set of unique Rageballers, each with their own abilities: Shoot fireballs, dig underground to dodge attacks, cast energy storms, or use jogo bonito to quickly surpass opponents… Nothing is off-limits when becoming the champ!"
+        img: "assets/icons/rageballleague.png"
+        imgalign: "left"
+        
+      - title: "Dodge Stars (Social Point)"
+        link: "assets/videos/dodgestars.mp4"
+        tagline: "Play dodgeball like never before! Challenge other players in real-time matches to put your dodging skills to the test. Throw all kinds of items to your opponent in intense PVP matches. Get the crowd 100% excited and receive a powerful special item!"
+        img: "assets/icons/dodgestars.png"
+        imgalign: "right"
+      
+      - title: "Legends at War! (Social Point)"
+        link: "assets/videos/legendsatwar.mp4"
+        tagline: "Summon, train, and Awaken Legendary Heroes, then combine them to form invincible teams! Collect mighty heroes, unlock their unique Skills, and use them in action-packed tactical battles. Take your Heroes on exciting quests and fight epic battles full of strategy! Can you defeat the Monsters from the Beyond and the mighty Titan?"
+        img: "assets/icons/legendsatwar.png"
+        imgalign: "left"
+      
+      - title: "World Planet Online: Global Conquest (Gameloft)"
+        link: "assets/videos/worldplanetonline.mp4"
+        tagline: "When the entire world is at war, bold generals rise to the challenge and lead their armies toward Global Conquest. The time has come for you to strike! Do you have what it takes? Build your base, dominate regions of an actual real-world map, and lead your faction to conquer every nation of the globe!"
+        img: "assets/icons/worldplanetonline.png"
+        imgalign: "right"
+      
+      - title: "Blitz Brigade Rival Tactics (Gameloft)"
+        link: "assets/videos/blitzbrigaderivaltactics.mp4"
+        tagline: "The most badass gun show on mobile just got upgraded with the latest in real-time tactical combat! In Blitz Brigade: Rival Tactics, deploy unit after unit in a fast-paced tactical game that lets you build an 8-man squad of doom from a pool of dozens of heroes, vehicles and power-ups."
+        img: "assets/icons/blitzbrigaderivaltactics.png"
+        imgalign: "left"
+      
+      - title: "World at Arms (Gameloft)"
+        link: "assets/videos/worldatarms.mp4"
+        tagline: "Enjoy the most beautiful war game on smartphone with outstanding graphics & animations! Engage in breathtaking battles across the globe and unleash deadly power-ups to crush your enemy!"
+        img: "assets/icons/worldatarms.png"
+        imgalign: "right"
+      
+      - title: "EpiX: Epic Pixel Heroes (Blinzy Studios)"
+        link: "assets/videos/epix.mp4"
+        tagline: "Fight against hundreds of thousands of orcs (literally!) with your sword and the special powers you unlock and improve, as you progress through the game."
+        img: "assets/icons/epix.png"
+        imgalign: "left"
+      
+      - title: "Bonds Training (Blinzy Studios)"
+        link: "#"
+        tagline: "Serious game about buying and selling fixed income securities"
+        img: "assets/icons/bondstraining.png"
+        imgalign: "right"
+      
+      - title: "Smash Blocks (Self-publish)"
+        link: "assets/videos/smashblocks.mp4"
+        tagline: "It is time to smash your android device! Smash Blocks is an Arcade game. Are you ready to challenge yourself?"
+        img: "assets/icons/smashblocks.png"
+        imgalign: "left"
+      
+      - title: "Avatar Baseball (Self-publish)"
+        link: "assets/videos/avatarbaseball.mp4"
+        tagline: "In this title you will can play real baseball using your own avatar in one to nine rounds versus your friends or avatars controlled by console."
+        img: "assets/icons/avatarbaseball.png"
+        imgalign: "right"
+      
+      - title: "Marvelous Galaxy (Self-publish)"
+        link: "assets/videos/marvelousgalaxy.mp4"
+        tagline: "Turn-based strategy game. In this title are combined hilarious and dangerous stages with a intricate strategy wich will make all your neurons get to work."
+        img: "assets/icons/marvelousgalaxy.png"
+        imgalign: "left"
