@@ -35,8 +35,21 @@ education:
       time: 2005 - 2012
 
 experiences:
+    - role: Lead Game Developer
+      time: Feb 2020 - Present
+      company: Social Point, Barcelona
+      details: |
+            - Manage a programming team and helps with their skill development
+            - Help in ensuring game technical stability
+            - Facilitate daily scrum, sprint planning and retrospectives
+            - Help in setting up best practices for coding and processes
+            - Help with the recruitment process and the onboarding of new team members
+            - Write technical design documents
+            - Contribute to in-house libraries
+            - Develop client side gameplay systems using cocos2d-x in C++
+            
     - role: Senior Game Developer
-      time: Sep 2017 - Present
+      time: Sep 2017 - Feb 2020
       company: Social Point, Barcelona
       details: |
             - Prototype game concepts using Unity
@@ -68,6 +81,12 @@ projects:
     title: Projects
 
     assignments:
+      - title: "Dragon City (Social Point)"
+        link: "assets/videos/dragoncity.mp4"
+        tagline: "Ready to take on the hottest dragon game and collect and breed tons of adorable fire-breathing dragons? Train them to your will, grow your collection, build your city, and prove your might to be the top Dragon Master in the world!"
+        img: "assets/icons/dragoncity.png"
+        imgalign: "right"
+      
       - title: "Rageball League (Social Point)"
         link: "assets/videos/rageballleague.mp4"
         tagline: "You asked for an adrenaline-filled eSports game and RAGEBALL is here to deliver! In RAGEBALL, you’ll find ultra fast-paced, real-time multiplayer matches that combine soccer, rugby, and brawling arenas. Smash your opponents with brutal moves and pass the ball to your teammates as you aim to score in the enemy Goal Zone! This all takes place in matches that last only 2 minutes! Switch quickly between a set of unique Rageballers, each with their own abilities: Shoot fireballs, dig underground to dodge attacks, cast energy storms, or use jogo bonito to quickly surpass opponents… Nothing is off-limits when becoming the champ!"
